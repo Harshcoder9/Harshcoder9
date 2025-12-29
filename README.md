@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **harsh920050@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 Working on ML & DL projects
-🌱 Learning Python, ML, DL & Git
-👯 Open to ML & open-source collaboration
-💬 Ask me about CNNs & ML basics
-📫 Reach me at: harshcoder9@gmail.com
+🔭 **Working on ML & DL projects**
+🌱 **Learning Python, ML, DL & Git**
+👯 **Open to ML & open-source collaboration**
+💬 **Ask me about CNNs & ML basics**
+📫 **Reach me at: harsh920050@gmail.com**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harshog93) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshys_93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harsh Pandey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Harsh-zr2eo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh920050@gmail.com) 
