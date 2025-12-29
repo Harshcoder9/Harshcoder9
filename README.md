@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Harsh Pandey
-**A passionate Data Scientist || Developer**
+**A passionate Data Scientist || MERN-STACK Developer**
 
 Email Me 👉 ✉️ **harsh920050@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 **Working on ML & DL projects**
 🌱 **Learning Python, ML, DL & Git**
 👯 **Open to ML & open-source collaboration**
-💬 **Ask me about CNNs & ML basics**
+💬 **Ask me about Data, ML, DL & Development**
 📫 **Reach me at: harsh920050@gmail.com**
 
 ## 🌐 Socials:
