@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 **Currently working on:** Machine Learning & Deep Learning projects  
-- 🌱 **Currently learning:** Python, ML, DL & Git  
+- 🌱 **Currently learning:** Python, ML, DL & Development 
 - 👯 **Open to:** ML & open-source collaboration  
 - 💬 **Ask me about:** Data Science, Machine Learning, Deep Learning & Development  
 
